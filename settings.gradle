@@ -1,0 +1,1 @@
+include ':opencv-lib', ':c1',':face-detection',':camera-calibration',':color-blob-detection',':image-manipulations'
